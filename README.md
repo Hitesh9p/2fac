@@ -21,7 +21,7 @@ git clone https://github.com/Hitesh9p/2fac.git
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. **Install dependencies**
    ```bash
-  pip install -r requirements.txt
+     pip install -r requirements.txt
 3. **Install dependencies**
   ```bash
   python 2fa.py
