@@ -25,7 +25,8 @@ git clone https://github.com/Hitesh9p/2fac.git
 3. **Install dependencies**
   ```bash
   python 2fa.py
-3. **Open your browser and go to**
+```
+4. **Open your browser and go to**
   ```bash
   http://localhost:8000
 ```
