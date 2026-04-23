@@ -24,12 +24,12 @@ git clone https://github.com/Hitesh9p/2fac.git
      pip install -r requirements.txt
 3. **Install dependencies**
   ```bash
-  python 2fa.py
-```
+     python 2fa.py
+   ```
 4. **Open your browser and go to**
   ```bash
-  http://localhost:8000
-```
+     http://localhost:8000
+  ```
 📖 How to Use
 1. Copy your Base32 Secret Key from the service you're setting up (e.g., GitHub, AWS, Discord).
 2. Paste it into the input box on the web page.
